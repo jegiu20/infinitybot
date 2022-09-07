@@ -48,7 +48,6 @@ const {
   const fs = require('fs');
   const os = require('os');
   const chalk = require('chalk');
-  const yts = require('yt-search');
   const crypto = require('crypto');
   const util = require('util');
   const axios = require('axios');
